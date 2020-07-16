@@ -1,6 +1,6 @@
 ### HOORAY, I am swapnil chavan 👋
 
-- 🔭 I’m currently working on my own (Custom) Auto Neural Network Building.
+- 🔭 I’m currently working on my own (Custom) Auto-ML Neural Network.
 - 🌱 I’m currently learning Deep Learning.
 - 👯 I’m looking to collaborate on website with some AI project in django framework.
 - 🤔 I’m looking for help with deep neural network algorithms documentation.
