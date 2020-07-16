@@ -104,3 +104,72 @@ classDiagram
                 +AWS_S3 bucket_boto3()
                 +Kinsesis Stream()
 	}
+
+
+================================================================
+
+ --------- FINAL DATA SCIENCE ROLE DIAGRAM -------------------
+
+================================================================
+
+classDiagram
+	Data Science <|-- Role 1
+        Data Science <|-- Role 2
+        Data Science <|-- Role 3
+	Data Science <|-- Role 4
+    
+	Data Science : +Machine Learning
+        Data Science : +Deep Leaning
+        Data Science : +Artificial Intelligence()
+	
+	class Role 1{
+    +Product Owner
+    -Business Analyst
+    -Data Analyst
+    +Domain Expertise()
+    -requirements()
+    +which data()
+    +Analyzing Data()
+    +Recording observations()
+    +Creating reports()
+    +Creating Dashboard()
+    +Tableau/Power_BI()      
+	}
+
+	class Role 2{
+		+Data scientist
+                -Programming Language
+		+Feature Engineering()
+                +Feature Selection()
+                +Model Creation()
+                +Hyperparameter Tuning()
+                -R()
+                -Python()
+                -SQL()
+	}
+     
+        class Role 3{
+                +ML Engineers
+                +Model Deployment()
+                +Infrastructure Knowledge()
+                +Azure()
+                +AWS EC2()
+                +Heroku()
+                +PAAS()
+                +IAAS()
+                +Docker()
+                +kubernetes()
+        }
+        class Role 4{
+                +ML Researcher
+                -Analytics Manager
+                +Phd()
+                +Patent()
+                +New_Business Problem()
+                +New ML_Algo()
+                +Open_source Contribution()
+                -Managing Data_Scientist()
+                -Data Analyst()
+                -ML engineers()
+                -ML Researcher()
+        }
