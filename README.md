@@ -10,8 +10,4 @@
 - ⚡ Fun fact: I watch study IQ videos a lot...
 
 
-graph LR
-A[Me] -- Learning --> B((Deep Learning))
-A --> C(Machine Learning)
-B --> D{AI}
-C --> D
+
