@@ -1,0 +1,106 @@
+
+*********************************
+
+Code of the diagram in portfolio
+
+*********************************
+
+classDiagram
+	Data Science <|-- Role 1
+        Data Science <|-- Role 2
+        Data Science <|-- Role 3
+	Data Science <|-- Role 4
+        Data Science <|-- Role 5
+        Data Science <|-- Role 6
+        Data Science <|-- Role 7
+        Data Science <|-- Role 8
+        
+	Data Science : +Machine Learning
+        Data Science : +Deep Leaning
+        Data Science : +Artificial Intelligence()
+	
+	class Role 1{
+		+Product Owner
+		+Domain Expertise()      
+	}
+	class Role 2{
+		-Business Analyst
+		-requirements()
+	}
+	class Role 3{
+		+Data Analyst
+		+which data()
+                +Analyzing the Data()
+                +Recording observations()
+                +Creating reports()
+                +Creating Dashboard()
+                +Tableau/Power_BI()
+	}
+	class Role 4{
+		+Data scientist
+		+Feature Engineering()
+                +Feature Selection()
+                +Model Creation()
+                +Hyperparameter Tuning()
+	}
+        class Role 5{
+                +Programming Language
+                +R()
+                +Python()
+                +SQL()
+        }
+        class Role 6{
+                +ML Engineers
+                +Model Deployment()
+                +Infrastructure Knowledge()
+                +Azure()
+                +AWS EC2()
+                +Heroku()
+                +PAAS()
+                +IAAS()
+                +Docker()
+                +kubernetes()
+        }
+        class Role 7{
+                +ML Researcher
+                +Phd()
+                +Patent()
+                +New_Business Problem()
+                +New ML_Algo()
+                +Open_source Contribution()
+        }
+        class Role 8{
+                +Analytics Manager
+                +Managing Data_Scientist()
+                +Data Analyst()
+                +ML engineers()
+                +ML Researcher()
+        }
+
+
+
+
+
+
+        DataScience Teams<|-- Team 1
+        DataScience Teams<|-- Team 2
+        DataScience Teams<|-- Team 3
+        class Team 1{
+		+Analytics Team
+                +Data Scientist
+		+Data Collection() 
+                +Web scraping()     
+	}
+        class Team 2{
+		+Big_Data Team
+		+SQL/NoSQL() 
+                +Big_Data Hadoop()
+                +AWS/AZURE()
+	}
+        class Team 3{
+		+Cloud Team
+		+Live streaming() 
+                +Architecture()
+                +AWS_S3 bucket_boto3()
+                +Kinsesis Stream()
+	}
