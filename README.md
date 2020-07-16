@@ -1,4 +1,4 @@
-### HOORAY, Glad to see you here 👋
+### HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 - 🔭 I’m currently working on my **own (Custom) Auto-ML Neural Networks**.
 - 🌱 I’m currently learning **Deep Learning**.
