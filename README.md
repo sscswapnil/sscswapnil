@@ -10,7 +10,6 @@
 - ⚡ Fun fact: I watch study IQ videos a lot...
 
 
-```mermaid
 graph LR
 A[Me] -- Learning --> B((Deep Learning))
 A --> C(Machine Learning)
