@@ -12,7 +12,7 @@
 - > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
 - 💻 I have worked on **R, Python, Machine Learning models, Image processing, AzureML, Linux Scripting, SQL, MySQL, MongoDB, Git, Elasticsearch, Tableau / Power BI, django, flask** etc..
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I watch **study IQ** videos a lot...
+- ⚡ Fun fact: I watch **study IQ and 2 Minute paper** videos a lot...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sscswapnil&show_icons=true&hide_border=true)
 
