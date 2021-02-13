@@ -10,7 +10,7 @@
 - > Email: er.swapnilchavan@gmail.com
 - > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/) 
 - > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
-- 💻 I have worked on **R, Python, Machine Learning models, Image processing, AzureML, Linux Scripting, SQL, MySQL, MongoDB, Git, Elasticsearch, Tableau / Power BI, django, flask** etc..
+- 💻 I have worked on **R, Python, Machine Learning models, Image processing,Text analytics, AzureML, Linux Scripting, SQL, MySQL, MongoDB, Git, Elasticsearch, Tableau / Power BI, django, flask** etc..
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch **study IQ and 2 Minute paper** videos a lot...
 
