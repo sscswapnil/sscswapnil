@@ -6,7 +6,7 @@
 </div>  
   
 
-## <div align="center">I'm Swapnil, a full-time python developer and senior data analyst 👨‍💻 </div>  
+## <div align="center">I'm Swapnil, A passionate python developer and data analyst from India 👨‍💻 </div>  
 # <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
 
 
@@ -32,9 +32,9 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; [![](https://mermaid.ink/img/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gICAgICAgIERhdGFTY2llbmNlIFRlYW1zPHwtLSBUZWFtIDFcbiAgICAgICAgRGF0YVNjaWVuY2UgVGVhbXM8fC0tIFRlYW0gMlxuICAgICAgICBEYXRhU2NpZW5jZSBUZWFtczx8LS0gVGVhbSAzXG4gICAgICAgIGNsYXNzIFRlYW0gMXtcblx0XHQrQW5hbHl0aWNzIFRlYW1cbiAgICAgICAgICAgICAgICArRGF0YSBTY2llbnRpc3Rcblx0XHQrRGF0YSBDb2xsZWN0aW9uKCkgXG4gICAgICAgICAgICAgICAgK1dlYiBzY3JhcGluZygpICAgICBcblx0fVxuICAgICAgICBjbGFzcyBUZWFtIDJ7XG5cdFx0K0JpZ19EYXRhIFRlYW1cblx0XHQrU1FML05vU1FMKCkgXG4gICAgICAgICAgICAgICAgK0JpZ19EYXRhIEhhZG9vcCgpXG4gICAgICAgICAgICAgICAgK0FXUy9BWlVSRSgpXG5cdH1cbiAgICAgICAgY2xhc3MgVGVhbSAze1xuXHRcdCtDbG91ZCBUZWFtXG5cdFx0K0xpdmUgc3RyZWFtaW5nKCkgXG4gICAgICAgICAgICAgICAgK0FyY2hpdGVjdHVyZSgpXG4gICAgICAgICAgICAgICAgK0FXU19TMyBidWNrZXRfYm90bzMoKVxuICAgICAgICAgICAgICAgICtLaW5zZXNpcyBTdHJlYW0oKVxuXHR9IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)](https://mermaid-js.github.io/docs/mermaid-live-editor-beta/#/edit/eyJjb2RlIjoiY2xhc3NEaWFncmFtXG4gICAgICAgIERhdGFTY2llbmNlIFRlYW1zPHwtLSBUZWFtIDFcbiAgICAgICAgRGF0YVNjaWVuY2UgVGVhbXM8fC0tIFRlYW0gMlxuICAgICAgICBEYXRhU2NpZW5jZSBUZWFtczx8LS0gVGVhbSAzXG4gICAgICAgIGNsYXNzIFRlYW0gMXtcblx0XHQrQW5hbHl0aWNzIFRlYW1cbiAgICAgICAgICAgICAgICArRGF0YSBTY2llbnRpc3Rcblx0XHQrRGF0YSBDb2xsZWN0aW9uKCkgXG4gICAgICAgICAgICAgICAgK1dlYiBzY3JhcGluZygpICAgICBcblx0fVxuICAgICAgICBjbGFzcyBUZWFtIDJ7XG5cdFx0K0JpZ19EYXRhIFRlYW1cblx0XHQrU1FML05vU1FMKCkgXG4gICAgICAgICAgICAgICAgK0JpZ19EYXRhIEhhZG9vcCgpXG4gICAgICAgICAgICAgICAgK0FXUy9BWlVSRSgpXG5cdH1cbiAgICAgICAgY2xhc3MgVGVhbSAze1xuXHRcdCtDbG91ZCBUZWFtXG5cdFx0K0xpdmUgc3RyZWFtaW5nKCkgXG4gICAgICAgICAgICAgICAgK0FyY2hpdGVjdHVyZSgpXG4gICAgICAgICAgICAgICAgK0FXU19TMyBidWNrZXRfYm90bzMoKVxuICAgICAgICAgICAgICAgICtLaW5zZXNpcyBTdHJlYW0oKVxuXHR9IiwibWVybWFpZCI6eyJ0aGVtZSI6ImRlZmF1bHQifSwidXBkYXRlRWRpdG9yIjpmYWxzZX0)
 
 
-
+<!---
 <h3 align="center">A passionate python developer and data analyst from India</h3>
-
+-->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sscswapnil&label=Profile%20views&color=0e75b6&style=flat" alt="sscswapnil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sscswapnil" alt="sscswapnil" /></a> </p>
