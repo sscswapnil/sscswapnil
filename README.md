@@ -2,12 +2,12 @@
 ### HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 -->
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 33%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 21%" />
 </div>  
   
 
 ## <div align="center">I'm Swapnil, a full-time python developer and senior data analyst 👨‍💻 </div>  
-## <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
+# <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
 
 
 - 🔭 I’m currently working on my **own (Custom) Auto-ML Neural Networks**.
