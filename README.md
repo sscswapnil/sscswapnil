@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">I'm Swapnil, a full-time python developer and senior data analyst 👨‍💻 </div>  
+## <div align="center">I'm Swapnil, a full-time python developer and senior data analyst 👨‍💻 </div>  
 # <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
 
 
