@@ -5,8 +5,8 @@
 </div>  
   
 
-### <div align="center">I'm Swapnil, a full-time python developer and senior data analyst 👨‍💻 
-  I code python... because it is the shortest path from idea to production 🚀</div>  
+### <div align="center">I'm Swapnil, a full-time python developer and senior data analyst 👨‍💻 </div>  
+### <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
 
 - 🔭 I’m currently working on my **own (Custom) Auto-ML Neural Networks**.
 - 🌱 I’m currently learning **Deep Learning**.
