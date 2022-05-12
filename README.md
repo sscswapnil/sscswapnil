@@ -36,12 +36,6 @@
 <a href="https://stackoverflow.com/users/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sscswapnil" height="30" width="40" /></a>
 <a href="https://instagram.com/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sscswapnil" height="30" width="40" /></a>
 <a href="https://medium.com/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/sscswapnil" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@sscswapnil" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="sscswapnil" height="30" width="40" /></a>
 </p>
 
 
