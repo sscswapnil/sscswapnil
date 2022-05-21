@@ -1,10 +1,11 @@
+<div align="center">
+HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="37px"></h2>
+</div>
 <!---
-### HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
--->
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width:17%"/>
 </div>  
-  
+-->
 
 ## <div align="center">I'm Swapnil, a passionate Python developer and data analyst from India 👨‍💻 </div>  
 # <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
