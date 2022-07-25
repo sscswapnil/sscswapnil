@@ -17,9 +17,9 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 
 - 🔭 I’m currently working on **Docker Kubernetes and Azure cloud services for the company projects**.
 - 🌱 I’m currently learning **Deep Learning + Kubernetes + Azure Data Scientist associate certification**.
-- 👯 I’m looking to collaborate on open source **Website** with some **AI projects in django framework**.
+- 👯 I’m looking to collaborate on open source **Saleforce Python projects** right now **Started contribution on Simple-Salesforce Library in Python**.
 - 🤔 I’m looking for help with **deep neural network algorithms documentation**.
-- 💬 Ask me about anything related to **python, R, SQL, Machine learning concepts and projects**.
+- 💬 Ask me about anything related to **python, R, SQL, Machine learning concepts and projects, Databrics, Docker**.
 - 📫 How to reach me: 
 
 - > Email: er.swapnilchavan@gmail.com
