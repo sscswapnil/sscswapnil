@@ -45,7 +45,7 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 <a href="https://linkedin.com/in/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sscswapnil" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/12283890/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sscswapnil" height="30" width="40" /></a>
 <a href="https://instagram.com/sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sscswapnil" height="30" width="40" /></a>
-<a href="https://medium.com/@ssc.swapnil.mobile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sscswapnil" height="30" width="40" /></a>
+<a href="https://medium.com/@sscswapnil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="sscswapnil" height="30" width="40" /></a>
 </p>
 
 
