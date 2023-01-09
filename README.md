@@ -21,7 +21,6 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 - 🤔 I’m looking for help with **deep neural network algorithms documentation**.
 - 💬 Ask me about anything related to **python, R, SQL, Machine learning concepts and projects, Databrics, Docker**.
 - 📫 How to reach me: 
-- 
 - > Portfolio website: [er.swapnilchavan@gmail.com](http://sscswapnil.com/)
 - > Email: er.swapnilchavan@gmail.com
 - > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/) 
