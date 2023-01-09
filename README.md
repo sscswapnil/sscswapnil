@@ -22,7 +22,7 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 - 💬 Ask me about anything related to **python, R, SQL, Machine learning concepts and projects, Databrics, Docker**.
 - 📫 How to reach me: 
 
-- > Portfolio website: [er.swapnilchavan@gmail.com](http://sscswapnil.com/) 🏆
+- > Portfolio website: [http://sscswapnil.com/](http://sscswapnil.com/) 🏆
 - > Email: er.swapnilchavan@gmail.com
 - > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/) 
 - > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
