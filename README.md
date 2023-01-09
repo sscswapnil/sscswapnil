@@ -21,10 +21,10 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 - 🤔 I’m looking for help with **deep neural network algorithms documentation**.
 - 💬 Ask me about anything related to **python, R, SQL, Machine learning concepts and projects, Databrics, Docker**.
 - 📫 How to reach me: 
- > Portfolio website: [er.swapnilchavan@gmail.com](http://sscswapnil.com/)
- > Email: er.swapnilchavan@gmail.com
- > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/) 
- > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
+- > 🏆 Portfolio website: [er.swapnilchavan@gmail.com](http://sscswapnil.com/)
+- > Email: er.swapnilchavan@gmail.com
+- > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/) 
+- > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
 - 💻 I have worked on **R, Python, Machine Learning models, Image processing,Text analytics, AzureML, Linux Scripting, SQL, MySQL, MongoDB, Git, Elasticsearch, Tableau / Power BI, django, flask** etc..
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch **study IQ and 2 Minute paper** videos a lot...
