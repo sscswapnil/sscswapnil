@@ -11,7 +11,7 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 <img align="center" alt="Coding" width="500" src="https://rishavanand.github.io/static/images/greetings.gif">
 </div> 
 
-<div align="center"> Portfolio website: http://sscswapnil.com/ 🏆</div>
+
 ## <div align="center">I'm Swapnil, a passionate Python developer and data analyst from India 👨‍💻 </div>  
 # <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
 
