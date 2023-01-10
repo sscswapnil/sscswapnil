@@ -25,7 +25,8 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 
 - > Portfolio website: [http://sscswapnil.com/](http://sscswapnil.com/) 🏆
 - > Email: er.swapnilchavan@gmail.com
-- > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/) 
+- > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/)
+- > Medium: [sscswapnil](https://medium.com/@sscswapnil) 
 - > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
 - 💻 I have worked on **R, Python, Machine Learning models, Image processing,Text analytics, AzureML, Linux Scripting, SQL, MySQL, MongoDB, Git, Elasticsearch, Tableau / Power BI, django, flask** etc..
 - 😄 Pronouns: He/His
