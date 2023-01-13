@@ -13,15 +13,24 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 
 ### <div align="center">🏆 Portfolio website: http://sscswapnil.com/ 🏆</div>
 ## <div align="center">I'm Swapnil, a passionate Python developer and data analyst from India 👨‍💻 </div>  
-# <div align="center"> I code python... because it is the shortest path from idea to production 🚀</div>  
+# <div align="center"> I code python. because it is the shortest path from idea to production 🚀</div>  
 
 
-- 🔭 I’m currently working on **Docker Kubernetes and Azure cloud services for the company projects**.
-- 🌱 I’m currently learning **Deep Learning + Kubernetes + Azure Data Scientist associate certification**.
-- 👯 I’m looking to collaborate on open source **Saleforce Python projects** right now **Started contribution on Simple-Salesforce Library in Python**.
-- 🤔 I’m looking for help with **deep neural network algorithms documentation**.
-- 💬 Ask me about anything related to **python, R, SQL, Machine learning concepts and projects, Databrics, Docker**.
-- 📫 How to reach me: 
+<div align="center"><b>🦾 I want to became an artificial brain behind everything 🧠 </b><br><br> </div>  
+
+        🔭 I’m currently working on Docker Kubernetes, MlOps and Azure cloud services for the Data Science projects. <br>
+
+        🌱 I’m currently working on Transfer Learning + Kubernetes + Data science services on different cloud.<br>
+
+        👯 I’m looking to collaboration on open source Saleforce automation product in Python.<br>
+
+        🤔 I’m looking for help with advance deep neural network algorithms documentations.<br>
+
+        💬 Ask me about anything related to python, R, SQL, Machine learning concepts and projects, Databrics, Docker, etc.<br>
+
+        ⚡ Fun fact: I watch study IQ and 2 Minute paper videos a lot...
+  </p>
+<div align="center"> 📫 How to reach me: </div>  
 
 - > Portfolio website: [http://sscswapnil.com/](http://sscswapnil.com/) 🏆
 - > Email: er.swapnilchavan@gmail.com
@@ -30,7 +39,6 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 - > Instagram: [sscswapnil](https://www.instagram.com/sscswapnil/) 
 - 💻 I have worked on **R, Python, Machine Learning models, Image processing,Text analytics, AzureML, Linux Scripting, SQL, MySQL, MongoDB, Git, Elasticsearch, Tableau / Power BI, django, flask** etc..
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I watch **study IQ and 2 Minute paper** videos a lot...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=sscswapnil&show_icons=true&hide_border=true)
 
