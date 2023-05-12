@@ -18,7 +18,7 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 
 <div align="center"><b>🦾 I want to became an artificial brain behind everything 🧠 </b><br><br> </div>  
 
-        🔭 I’m currently working on Docker Kubernetes, MlOps and Azure cloud services for the Data Science projects. <br>
+        🔭 I’m currently working on chatbot for Pharma based on research papers, MlOps and Azure cloud services for the Data Science projects. <br>
 
         🌱 I’m currently working on Transfer Learning + Kubernetes + Data science services on different cloud.<br>
 
