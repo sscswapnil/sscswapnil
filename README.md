@@ -18,18 +18,18 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
 
 <div align="center"><b>🦾 I want to became an artificial brain behind everything 🧠 </b><br><br> </div>  
 
-        🔭 I’m currently working on chatbot for healthcare industry based on open source LLM's, CHATGPT and Azure services.<br>
+        🔭 I’m currently working on chatbot for healthcare industry based on open source LLM's, CHATGPT and Azure services.
 
-        🌱 I’m currently working on Transfer Learning + Kubernetes + Data science services on different cloud.<br>
+        🌱 I’m currently working on Transfer Learning + Kubernetes + Data science services on different cloud.
 
-        👯 I’m looking to collaboration on open source Saleforce automation product in Python.<br>
+        👯 I’m looking to collaboration on open source Saleforce automation product in Python.
 
-        🤔 I’m looking for help with advance deep neural network algorithms documentations.<br>
+        🤔 I’m looking for help with advance deep neural network algorithms documentations.
 
-        💬 Ask me about anything related to python, R, SQL, Machine learning concepts and projects, Databrics, Docker, etc.<br>
+        💬 Ask me about anything related to python, R, SQL, Machine learning concepts and projects, Databrics, Docker, etc.
 
         ⚡ Fun fact: I watch study IQ and 2 Minute paper videos a lot...
-  </p>
+        
 <div align="center"> 📫 How to reach me: </div>  
 
 - > Portfolio website: [http://sscswapnil.com/](http://sscswapnil.com/) 🏆
