@@ -32,7 +32,7 @@ HOORAY! Glad to see you here <img src="https://raw.githubusercontent.com/iampava
         
 <div align="center"> 📫 How to reach me: </div>  
 
-- > Portfolio website: [http://sscswapnil.com/](http://sscswapnil.com/) 🏆
+- > Portfolio website: [http://sscswapnil.com/](https://sscswapnil.github.io/swapnil-chavan-portfolio/) 🏆
 - > Email: er.swapnilchavan@gmail.com
 - > LinkedIn: [sscswapnil](https://www.linkedin.com/in/sscswapnil/)
 - > Medium: [sscswapnil](https://medium.com/@sscswapnil) 
